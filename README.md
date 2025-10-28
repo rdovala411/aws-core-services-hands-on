@@ -95,3 +95,6 @@ Add this **inline policy** (scopes Glue to this bucket and enables logs):
     }
   ]
 }
+
+
+![IAM role: AWSGlueServiceRole-ITCS6190](screenshots/IAM.png)

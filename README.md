@@ -269,4 +269,16 @@ LIMIT 10;
 
 All tghe reults are stored in the `\results` in the repo as the csv files.
 
+
+### 2) Embed with Markdown (simple & recommended)
+```markdown
+## Screenshots
+
+![CloudWatch: Glue crawler run succeeded](screenshots/LOGS.png)
+
+![IAM role: AWSGlueServiceRole-ITCS6190](screenshots/IAM.png)
+
+![S3 bucket layout (awsassignmentl11)](screenshots/S3.png)
+
+
 ---RUTHWIK DOVALA (801431661)
